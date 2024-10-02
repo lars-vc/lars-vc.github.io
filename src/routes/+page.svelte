@@ -42,7 +42,7 @@
 }
 #desktop {
     width: 67vw;
-    height: 90vh;
+    height: 93.2vh;
     background-image: url(../lib/images/windowsxp.jpg);
     background-size: cover;
     overflow: hidden;
