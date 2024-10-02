@@ -20,6 +20,9 @@
 
 </script>
 
+<head>
+<title>Lars-vc XP</title>
+</head>
 
 <div id="main-div">
     <div id="desktop">

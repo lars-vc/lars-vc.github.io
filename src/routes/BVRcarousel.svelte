@@ -85,10 +85,11 @@
 
 <style>
 img {
-    max-width: 75vw;
-    max-height: 75vh;
+    max-width: 62.5vw;
+    max-height: 65vh;
     object-fit: contain;
     margin-left: 20px;
+    filter: drop-shadow(5px 5px 5px #222);
 }
 #prev-but {
     margin-left: 20px;
