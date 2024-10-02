@@ -12,7 +12,7 @@
     <div id="desktop">
         <div>
             <h1>Beavers</h1>
-            <p>Beavers are my favorite animal, here are some cute pictures:</p>
+            <p>Beavers are my favorite animal, here are some cute pictures of them:</p>
             <Carousel/>
         </div>
     </div>

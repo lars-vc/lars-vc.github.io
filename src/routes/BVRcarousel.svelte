@@ -77,8 +77,8 @@
 </script>
 
 <div>
-<button id="prev-but" on:click={prev}>Prev</button>
-<button on:click={next}>Next</button>
+<button id="prev-but" on:click={prev}></button>
+<button id="next-but" on:click={next}></button>
 <div></div>
 <img src="{source}"/>
 </div>
@@ -93,5 +93,14 @@ img {
 #prev-but {
     margin-left: 20px;
     margin-bottom: 10px;
+    height: 42px;
+    width: 43px;
+    background-image: url(../lib/images/larrow.png)
+}
+#next-but {
+    margin-bottom: 10px;
+    height: 42px;
+    width: 43px;
+    background-image: url(../lib/images/rarrow.png)
 }
 </style>
